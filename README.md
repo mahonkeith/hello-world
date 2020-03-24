@@ -1,5 +1,6 @@
 # hello-world
 Starting to learn Github
 
+These is some additional information about me, I don't know if that is needed.
 
-Make changes please
+Now there are changes in here.
